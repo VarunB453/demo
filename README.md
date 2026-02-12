@@ -8,3 +8,10 @@ not for use
 ```
 ---
 Happy Happy
+
+|-------|
+```
+HTTPS
+LAN
+```
+|-------|
